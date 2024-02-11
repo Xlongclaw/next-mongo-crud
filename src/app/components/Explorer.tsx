@@ -18,20 +18,6 @@ const Explorer = () => {
           </div>
         ))}
       </div>
-      {/* <div>
-        <h2 className="text-lg font-medium pb-1">Getting Started</h2>
-        <div className="px-3">
-          <h2 className="font-medium text-[#9f9f9f] pl-4 border-l border-white/10 py-1">
-            Installation
-          </h2>
-          <h2 className="font-medium text-[#9f9f9f] pl-4 border-l border-white/10 py-1">
-            Project Structure
-          </h2>
-          <h2 className="font-medium text-[#9f9f9f] pl-4 border-l border-white/10 py-1">
-            Routing
-          </h2>
-        </div>
-      </div> */}
     </div>
   );
 };
